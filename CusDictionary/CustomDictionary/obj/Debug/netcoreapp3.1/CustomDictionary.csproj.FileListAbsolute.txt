@@ -1,0 +1,26 @@
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.exe
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.deps.json
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.runtimeconfig.json
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.runtimeconfig.dev.json
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.dll
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.pdb
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.csprojAssemblyReference.cache
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.AssemblyInfoInputs.cache
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.AssemblyInfo.cs
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.csproj.CoreCompileInputs.cache
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.dll
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.pdb
+D:\Технологии разработки ПО\CustomDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.genruntimeconfig.cache
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.exe
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.deps.json
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.runtimeconfig.json
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.runtimeconfig.dev.json
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.dll
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\bin\Debug\netcoreapp3.1\CustomDictionary.pdb
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.csprojAssemblyReference.cache
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.AssemblyInfoInputs.cache
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.AssemblyInfo.cs
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.dll
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.pdb
+C:\Users\Ura\Desktop\dev\CusDictionary\CustomDictionary\obj\Debug\netcoreapp3.1\CustomDictionary.genruntimeconfig.cache

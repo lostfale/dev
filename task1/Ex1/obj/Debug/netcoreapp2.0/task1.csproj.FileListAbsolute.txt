@@ -1,0 +1,11 @@
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\bin\Debug\netcoreapp2.0\task1.deps.json
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\bin\Debug\netcoreapp2.0\task1.runtimeconfig.json
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\bin\Debug\netcoreapp2.0\task1.runtimeconfig.dev.json
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\bin\Debug\netcoreapp2.0\task1.dll
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\bin\Debug\netcoreapp2.0\task1.pdb
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\obj\Debug\netcoreapp2.0\task1.AssemblyInfoInputs.cache
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\obj\Debug\netcoreapp2.0\task1.AssemblyInfo.cs
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\obj\Debug\netcoreapp2.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\obj\Debug\netcoreapp2.0\task1.dll
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\obj\Debug\netcoreapp2.0\task1.pdb
+C:\Users\Ura\Downloads\SoftwareDevelopment-main (4)\SoftwareDevelopment-main\Ex1\Ex1\obj\Debug\netcoreapp2.0\task1.genruntimeconfig.cache
